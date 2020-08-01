@@ -4,8 +4,7 @@ All-in-one script to install common program dependencies.
 
 
 
-:warning:**You are required to be signed in to the Mac App Store to install Mac App Store Apps!** 
-At this time you will have to do this manually.
+:warning:**Before running this script, you are required to be signed in to the Mac App Store to install Mac App Store Apps!** 
 
 
 ## Installation
