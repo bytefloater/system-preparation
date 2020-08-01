@@ -63,3 +63,5 @@ Included in this script are the following macOS App Store Apps:
 - Tunnelblick <sup>(beta)</sup>
 - Angry IP Scanner
 - Atom Editor
+
+<sup>The mas package documentation can be found at https://github.com/mas-cli/mas</sup>
