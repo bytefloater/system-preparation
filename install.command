@@ -40,6 +40,7 @@ brew cask install ilok-license-manager
 brew cask install openvpn-connect
 brew cask install https://raw.githubusercontent.com/Homebrew/homebrew-cask-versions/master/Casks/tunnelblick-beta.rb
 brew cask install angry-ip-scanner
+brew cask install atom
 
 mas install 1295203466
 mas install 1037126344
