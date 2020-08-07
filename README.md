@@ -11,11 +11,11 @@ All-in-one script to install common program dependencies.
 
 To execute the script, type the following command in the terminal: 
 ```
-source <(curl -s https://raw.githubusercontent.com/bytefloater/system-preparation/master/install.sh)
+curl -s https://raw.githubusercontent.com/bytefloater/system-preparation/master/install.sh | bash
 ```
 or
 ```
-source <(curl -s https://raw.githubusercontent.com/bytefloater/system-preparation/master/minimal.sh)
+curl -s https://raw.githubusercontent.com/bytefloater/system-preparation/master/minimal.sh | bash
 ```
 
 ## Included Mac App Store Apps
