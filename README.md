@@ -13,6 +13,10 @@ To execute the script, type the following command in the terminal:
 ```
 source <(curl -s https://raw.githubusercontent.com/bytefloater/system-preparation/master/install.sh)
 ```
+or
+```
+source <(curl -s https://raw.githubusercontent.com/bytefloater/system-preparation/master/minimal.sh)
+```
 
 ## Included Mac App Store Apps
 
